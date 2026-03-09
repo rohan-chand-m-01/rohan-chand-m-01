@@ -21,7 +21,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cloud / Labs" />
 </p>
 
 ## 🧑‍💻 About Me
@@ -52,26 +51,7 @@ I strive for excellence in both academics and competitive tech environments.
 
 ---
 
-## 🚀 Featured Projects & Contributions
 
-### 🔗 **Land Chain** (2026)
-*A blockchain-based real estate platform using Solidity, React, Tailwind CSS, and Polygon.*
-*   Enabled secure tokenization and on-chain management of property ownership.
-*   Implemented smart contracts for escrow-based transactions, multi-signature partnerships, and automated lease agreements, ensuring transparent and fraud-resistant real estate operations.
-*   Integrated **AI-powered anomaly detection** using Google Gemini and decentralized storage with IPFS, allowing registrars to audit property data and detect suspicious transactions before minting assets.
-
-### 🔗 **Musafir** (2026)
-*A collaborative travel platform using React, TypeScript, Tailwind CSS, and Supabase.*
-*   Engineered a date-overlap matching algorithm to group users traveling on similar schedules.
-*   Built real-time group chat, hotel booking collaboration sharing, and TrustMiles reputation features for seamless travel planning to shared destinations.
-
-### 🔗 **No-Entity** (2025)
-*An AI-powered public transit assistant providing verified bus information.*
-*   Developed a web app with voice AI and SMS-based IVR tailored for offline users.
-*   Implemented real-time bus tracking and route visualization using React, TypeScript, Leaflet (OpenStreetMap), and Node.js.
-*   Integrated a Twilio-based IVR and SMS system with **multilingual voice support** (English, Kannada, Hindi) to significantly enhance accessibility.
-
----
 
 ## 📊 GitHub Stats & Activity
 
