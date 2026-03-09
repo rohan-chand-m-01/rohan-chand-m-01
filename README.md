@@ -67,13 +67,6 @@ I strive for excellence in both academics and competitive tech environments.
 
 ---
 
-## 💼 Experience
-
-*   **Technical Head @ Qbit RIT** *(01/2026 - Present)*: Managing and guiding the student technical team, overseeing technical activities and facilitating project execution within the university community.
-*   **Member @ E-Cell MSRIT** *(09/2025 - 12/2025)*: Designed brand guidelines to standardize promotional materials. Supported event planning for entrepreneurship workshops and contributed to the **Upstarter** initiative.
-*   **Technical Member @ Quatlas Aeromodelling** *(08/2024 - 10/2025)*: Managed social media platforms; designed branded graphics and promotional materials using Figma & Canva for events and outreach.
-
----
 <div align="center">
   <i>Let's connect and build something awesome together! 🚀</i>
 </div>
