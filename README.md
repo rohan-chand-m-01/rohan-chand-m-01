@@ -70,7 +70,7 @@ I strive for excellence in both academics and competitive tech environments.
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohan's GitHub Stats" width="48%" />
+  <img src="https://ghrs.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohan's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=tokyonight&hide_border=true" alt="Rohan's GitHub Streak" width="48%" />
 </div>
 
