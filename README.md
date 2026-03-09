@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Rohan Chand M. 👋</h1>
+  <h1>Hey there, I'm Rohan Chand M. 👋</h1>
   <h3>Second-year Information Science student @ M. S. Ramaiah Institute of Technology 🎓</h3>
   <p>Aspiring Software Engineer & Tech Innovator 🚀 | Passionate about building impactful solutions through technology.</p>
 </div>
