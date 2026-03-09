@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ## 🧑‍💻 About Me
@@ -29,7 +30,7 @@ I am currently seeking internship opportunities to work on real-world projects, 
 *   **Databases & Platforms:** MySQL, MongoDB.
 *   **APIs & Integrations:** API Authentication, JSON Handling, RESTful APIs.
 *   **AI & Data Science:** NumPy, Pandas, Seaborn, Matplotlib, OpenCV.
-*   **Tools & Platforms:** Git, GitHub, Google Cloud / Lab Products.
+*   **Tools & Platforms:** Git, GitHub, Figma, Google Cloud / Lab Products.
 
 ---
 
