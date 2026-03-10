@@ -47,7 +47,7 @@ I strive for excellence in both academics and competitive tech environments.
 *   🎖️ **Semifinalist** - SIH (Smart India Hackathon) (2025)
 *   🥉 **2nd Runner Up** - Tech Fest '25 Shark Tank (2025)
 *   💼 **Junior Placement Coordinator** (2026)
-*   🏫 **Ranked 1st in Class** - Higher Secondary (95.53% overall) & Recipient of multiple extracurricular awards.
+*   🏫 **Ranked 1st in College** - Higher Secondary (95.53% overall) & Recipient of multiple extracurricular awards.
 
 ---
 
