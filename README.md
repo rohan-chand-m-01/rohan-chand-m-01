@@ -45,12 +45,12 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=tokyonight&ring=a855f7&fire=ec4899&currStreakLabel=00bfff&hide_border=true" alt="Streak" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=radical&hide_border=true&ring=a855f7&fire=ec4899" alt="Streak" /></td>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Languages" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=tokyonight&column=6&row=1&no-bg=true&no-frame=true" alt="Trophies" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Languages" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=radical&column=6&row=1&no-bg=true" alt="Trophies" /></td>
     </tr>
   </table>
 </div>
@@ -62,11 +62,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-chand-m-01&theme=tokyonight" width="100%" alt="3D Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-chand-m-01&theme=radical" width="100%" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&hide_border=true" width="100%" alt="Activity Heatmap" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&theme=github-compact&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&hide_border=true" width="100%" alt="Activity Heatmap" />
 </p>
 
 <p align="center">
@@ -82,11 +82,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Heapify&theme=tokyonight&border_color=a855f7" alt="Heapify" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Drifting-Oracle&theme=tokyonight&border_color=a855f7" alt="Drifting Oracle" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Heapify&theme=radical&border_color=a855f7" alt="Heapify" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Drifting-Oracle&theme=radical&border_color=a855f7" alt="Drifting Oracle" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Lorem-Epsum&theme=tokyonight&border_color=a855f7" alt="Lorem Epsum" /></td>
+      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Lorem-Epsum&theme=radical&border_color=a855f7" alt="Lorem Epsum" /></td>
     </tr>
   </table>
 </div>
@@ -132,47 +132,3 @@
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=last+updated&color=a855f7" alt="Auto Sync" />
 </p>
-
----
-
-### Setup Instructions: Contribution Snake
-
-To enable the contribution snake animation, ensure the file at `.github/workflows/snake.yml` exists with the correct permissions.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
