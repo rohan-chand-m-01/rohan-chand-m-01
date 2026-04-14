@@ -1,85 +1,178 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/main/banner.png" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information+Science+Engineer+%7C+AI+Systems+%7C+Multi-Agent+Pipelines+%7C+MSRIT+Bengaluru&descAlignY=60&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=FF0055&center=true&vCenter=true&width=500&lines=Java+Architect.;Quantum+PQC+Research.;Fintech+Innovator.;AI+Systems+Engineer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=a855f7&center=true&vCenter=true&width=600&lines=Building+Multi-Agent+AI+Systems;RAG+Pipeline+Engineer;IoT+%2B+AI+Integration;FinTech+Compliance+Automation;Full+Stack+with+FastAPI+%2B+Next.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Engineering intelligence at the intersection of AI, Fintech, and Quantum Cryptography.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VIEWS-1.8K-d033ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-48-ff0055?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TOTAL_STARS-142-ffce00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PUBLIC_REPOS-38-00fff2?style=for-the-badge&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rohan-chand"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rohan.dev"><img src="https://img.shields.io/badge/PORTFOLIO-FF4B11?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="mailto:rohan@example.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rohan-chand-m-01&label=PROFILE+VIEWS&color=blueviolet&style=flat-square&labelColor=0d1117" alt="Views" />
+  <img src="https://img.shields.io/github/followers/rohan-chand-m-01?style=flat-square&label=FOLLOWERS&color=ec4899&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rohan-chand-m-01?style=flat-square&label=TOTAL+STARS&color=yellow&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/rohan-chand-m-01?style=flat-square&label=PUBLIC+REPOS&color=00bfff&labelColor=0d1117" alt="Repos" />
+  <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=LAST+COMMIT&color=brightgreen&labelColor=0d1117" alt="Last Commit" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Tech%20Arsenal&fontSize=40&fontAlignY=40&animation=fadeIn" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=TECH+ARSENAL&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Tech Arsenal" />
+</p>
+
+<div align="center">
+
+**Languages & Frameworks**  
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,ts,fastapi,spring,react,nextjs)](https://skillicons.dev)
+
+**AI / ML**  
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
+
+**Cloud & DevOps**  
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman)](https://skillicons.dev)
+
+**Databases**  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
+
+</div>
+
+---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,vertx,sql,postgresql,mongodb,redis,aws,docker,kubernetes,github,git,linux,bash,py,ts,js,cpp" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=GITHUB+ANALYTICS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Analytics" />
+</p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=tokyonight&ring=a855f7&fire=ec4899&currStreakLabel=00bfff&hide_border=true" alt="Streak" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Languages" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=tokyonight&column=6&row=1&no-bg=true&no-frame=true" alt="Trophies" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=CONTRIBUTION+GRAPH&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-chand-m-01&theme=tokyonight" width="100%" alt="3D Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&hide_border=true" width="100%" alt="Activity Heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=GitHub%20Insights&fontSize=35&fontAlignY=50" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=PINNED+PROJECTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Projects" />
+</p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Heapify&theme=tokyonight&border_color=a855f7" alt="Heapify" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Drifting-Oracle&theme=tokyonight&border_color=a855f7" alt="Drifting Oracle" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Lorem-Epsum&theme=tokyonight&border_color=a855f7" alt="Lorem Epsum" /></td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=ACHIEVEMENTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Achievements" />
+</p>
+
+<div align="center">
+
+| Event | Result | Year |
+|---|---|---|
+| Innovex Hackathon | ![](https://img.shields.io/badge/Winner-gold?style=flat-square) | 2026 |
+| Agentathon | ![](https://img.shields.io/badge/1st_Runner_Up-silver?style=flat-square) | 2026 |
+| Smart India Hackathon | ![](https://img.shields.io/badge/Semifinalist-blue?style=flat-square) | 2025 |
+| Shark Tank (College) | ![](https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square) | 2025 |
+| Limitless Mind Hackathon | ![](https://img.shields.io/badge/Top_7-green?style=flat-square) | 2025 |
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=CONNECT&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Connect" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=radical&hide_border=true" alt="Streak" />
+  <a href="https://linkedin.com/in/rohan-chand"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:rohan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/rohan-chand-m-01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" /></a>
+</p>
+
+<p align="center">
+  <i>"Engineering intelligence, one system at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=last+updated&color=a855f7" alt="Auto Sync" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Contribution%20Visuals&fontSize=30&fontAlignY=50" width="100%" />
+### Setup Instructions: Contribution Snake
 
-<p align="center">
-  <b>3D Isometric Calendar</b><br>
-  <img src="https://github-profile-3d-contrib-graph.vercel.app/api?username=rohan-chand-m-01" width="100%" alt="3D Graph" />
-</p>
+To enable the contribution snake animation, ensure the file at `.github/workflows/snake.yml` exists with the correct permissions.
 
-<p align="center">
-  <b>Activity Heatmap</b><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&theme=github-compact&bg_color=0d1117&color=ff0055&line=00fff2&hide_border=true" width="100%" alt="Heatmap" />
-</p>
+```yaml
+name: Generate Snake
 
-<p align="center">
-  <b>Contribution Snake</b><br>
-  <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake" />
-</p>
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
 
----
+permissions:
+  contents: write
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Connect&fontSize=35&fontAlignY=70" width="100%" />
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
 
-<p align="center">
-  <i>"Innovation is seeing what everybody has seen and thinking what nobody has thought."</i><br>
-  <b>— Dr. APJ Abdul Kalam</b>
-</p>
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/UPTIME-SINCE_2004-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/LAST_SYNC-2026--04--14-orange?style=flat-square" />
-</p>
-
-<p align="center">
-  Thanks for stopping by! Feel free to check out my repositories or reach out for collaboration. 🚀
-</p>
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
