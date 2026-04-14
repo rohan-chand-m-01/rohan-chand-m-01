@@ -17,14 +17,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: rohan-chand-m-01
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           config_timezone: UTC
           plugin_languages: yes
           plugin_languages_type: donut
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_activity: yes
-          plugin_activity_limit: 5
           plugin_isocalendar: yes
           filename: metrics.svg
           output_action: commit
