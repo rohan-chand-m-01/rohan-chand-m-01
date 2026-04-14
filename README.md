@@ -42,19 +42,22 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=GITHUB+ANALYTICS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Analytics" />
 </p>
 
+<h3 align="center">Rohan's Contribution Activity Graph</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/metrics.svg" width="100%" alt="Activity Graph" />
+</p>
+
+### 📅 Contribution Heatmap
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Heatmap" />
+</p>
+
+<h3 align="center">ROHAN-CHAND-M (ROHAN CHAND)</h3>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/metrics.svg" width="100%" alt="Dashboard" />
   <p>
     <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=00bfff" alt="GitHub Streak" />
   </p>
-
----
-**📊 System Research & Analytical Dashboard**
-*(Real-time activity graph, language research, and contribution heatmap)*
-
-![Metrics Visualization](https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/metrics.svg)
-
----
-
 </div>
 
 ---
