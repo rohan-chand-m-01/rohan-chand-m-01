@@ -43,16 +43,14 @@
 </p>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=radical&hide_border=true&ring=a855f7&fire=ec4899" alt="Streak" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Languages" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=radical&column=6&row=1&no-bg=true" alt="Trophies" /></td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_color=a855f7" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=00bfff" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=tokyonight&no-frame=true&column=6&margin-w=4" alt="GitHub Trophies" />
+  </p>
 </div>
 
 ---
@@ -61,13 +59,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=CONTRIBUTION+GRAPH&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Contributions" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-chand-m-01&theme=radical" width="100%" alt="Profile Summary" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&theme=github-compact&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&hide_border=true" width="100%" alt="Activity Heatmap" />
-</p>
+---
+**Contribution activity tracked on GitHub.**
+View the full graph at [github.com/rohan-chand-m-01](https://github.com/rohan-chand-m-01)
+
+---
+
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
@@ -80,15 +80,40 @@
 </p>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Heapify&theme=radical&border_color=a855f7" alt="Heapify" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Drifting-Oracle&theme=radical&border_color=a855f7" alt="Drifting Oracle" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Lorem-Epsum&theme=radical&border_color=a855f7" alt="Lorem Epsum" /></td>
-    </tr>
-  </table>
+
+### Heapify
+**Multi-agent NBFC compliance decisioning platform for RBI & DPDP regulations**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00bfff)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=ff9900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed)
+
+> Automates regulatory compliance checks using AI-driven decision pipelines with cryptographic audit trails.
+
+### Drifting Oracle
+**Enterprise credit risk monitoring and LLM governance platform**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00bfff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff)
+![Databricks](https://img.shields.io/badge/Databricks-0d1117?style=flat-square&logo=databricks&logoColor=ff3621)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=0194e2)
+
+> Detects data drift in real-time using PSI and SHAP variance to ensure financial model stability.
+
+### Lorem Epsum
+**Real-time IoT and AI vaccine cold chain surveillance system**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a855f7)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00bfff)
+![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=flat-square&logo=mqtt&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003b57)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0d1117?style=flat-square&logo=raspberry-pi&logoColor=c51a4a)
+
+> Prevents vaccine degradation using sensor pipelines, AI compliance reports, and live threshold alerts.
+
 </div>
 
 ---
@@ -116,9 +141,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rohan-chand"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-  <a href="mailto:rohan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://github.com/rohan-chand-m-01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://linkedin.com/in/rohan-chand"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="mailto:rohan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" /></a>
+  <a href="https://github.com/rohan-chand-m-01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
 </p>
 
 <p align="center">
