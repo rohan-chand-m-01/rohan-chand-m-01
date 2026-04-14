@@ -47,18 +47,12 @@
     <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=00bfff" alt="GitHub Streak" />
   </p>
 
-**📊 CORE ANALYTICS MONITOR**
-
-| Language | Stats | Visualization |
-| :--- | :--- | :--- |
-| **Python** | `60.2%` | `████████████████████ 60%` |
-| **TypeScript** | `24.8%` | `████████ 25%` |
-| **JavaScript** | `8.1%` | `███ 8%` |
-| **Frontend/IoT** | `6.9%` | `██ 7%` |
-
 ---
-**Profile Summary Metrics**  
-`Total Repos: 27+` • `Total Commits: 145+` • `Active Presence: Verified`
+**📊 System Research & Analytical Dashboard**
+*(Real-time activity graph, language research, and contribution heatmap)*
+
+![Metrics Visualization](https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/metrics.svg)
+
 ---
 
 </div>
@@ -66,18 +60,8 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=CONTRIBUTION+GRAPH&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=CONTRIBUTION+GRID&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Grid" />
 </p>
-
-<div align="center">
-
----
-**Contribution activity tracked on GitHub.**
-View the full graph at [github.com/rohan-chand-m-01](https://github.com/rohan-chand-m-01)
-
----
-
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
