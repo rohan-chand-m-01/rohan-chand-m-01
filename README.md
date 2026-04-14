@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohan-chand-m-01&label=PROFILE+VIEWS&color=blueviolet&style=flat-square&labelColor=0d1117" alt="Views" />
-  <img src="https://img.shields.io/github/followers/rohan-chand-m-01?style=flat-square&label=FOLLOWERS&color=ec4899&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rohan-chand-m-01?style=flat-square&label=TOTAL+STARS&color=yellow&labelColor=0d1117" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/rohan-chand-m-01?style=flat-square&label=PUBLIC+REPOS&color=00bfff&labelColor=0d1117" alt="Repos" />
+   <img src="https://img.shields.io/github/followers/rohan-chand-m-01?style=flat-square&label=FOLLOWERS&color=ec4899&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=TOTAL+STARS&color=yellow&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rohan-chand-m-01&query=$.public_repos&label=PUBLIC%20REPOS&color=00bfff&style=flat-square&labelColor=0d1117" alt="Repos" />
   <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=LAST+COMMIT&color=brightgreen&labelColor=0d1117" alt="Last Commit" />
 </p>
 
