@@ -47,11 +47,20 @@
     <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=00bfff" alt="GitHub Streak" />
   </p>
 
----
-**Advanced statistics tracked on GitHub.**
-View the full dashboard at [github.com/rohan-chand-m-01](https://github.com/rohan-chand-m-01)
+**📊 CORE ANALYTICS MONITOR**
+
+| Language | Stats | Visualization |
+| :--- | :--- | :--- |
+| **Python** | `60.2%` | `████████████████████ 60%` |
+| **TypeScript** | `24.8%` | `████████ 25%` |
+| **JavaScript** | `8.1%` | `███ 8%` |
+| **Frontend/IoT** | `6.9%` | `██ 7%` |
 
 ---
+**Profile Summary Metrics**  
+`Total Repos: 27+` • `Total Commits: 145+` • `Active Presence: Verified`
+---
+
 </div>
 
 ---
