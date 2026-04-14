@@ -44,13 +44,14 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_color=a855f7" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=00bfff" alt="GitHub Streak" />
   </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    <img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=tokyonight&no-frame=true&column=6&margin-w=4" alt="GitHub Trophies" />
-  </p>
+
+---
+**Advanced statistics tracked on GitHub.**
+View the full dashboard at [github.com/rohan-chand-m-01](https://github.com/rohan-chand-m-01)
+
+---
 </div>
 
 ---
