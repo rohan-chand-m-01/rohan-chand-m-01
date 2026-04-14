@@ -1,73 +1,154 @@
-<div align="center">
-  <h1>Hey there, I'm Rohan Chand M. 👋 <img src="https://komarev.com/ghpvc/?username=rohan-chand-m-01&label=Views&color=0e75b6&style=flat-square" alt="Profile Views" /></h1>
-  <h3>Second-year Information Science student @ M. S. Ramaiah Institute of Technology 🎓</h3>
-  <p>Aspiring Software Engineer & Tech Innovator 🚀 | Passionate about building impactful solutions through technology.</p>
-</div>
-
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=I+build+things+that+scale.;Java+ecosystem+architect.;Quantum+PQC+implementation+specialist.;Multi-agent.+Multi-cloud.+No+mercy." alt="Typing SVG" />
 </p>
 
-## 🧑‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohan-chand-m-01&label=SYSTEM+ACCESSES&color=39ff14&style=flat-square" alt="visitor counter" />
+</p>
 
-I am currently seeking internship opportunities to work on real-world projects, enhance my technical expertise, and gain hands-on industry experience. I have a strong background in leading hackathon teams, collaborating on comprehensive projects, and effective communication. 
-
-## 🛠️ Technical Skills
-
-*   **Programming Languages:** C, C++, Java, Python.
-*   **Frontend & Frameworks:** HTML5, CSS, Node.js, JavaScript, TypeScript, React.js, Express.js.
-*   **Databases & Platforms:** MySQL, MongoDB.
-*   **APIs & Integrations:** API Authentication, JSON Handling, RESTful APIs.
-*   **AI & Data Science:** NumPy, Pandas, Seaborn, Matplotlib, OpenCV.
-*   **Tools & Platforms:** Git, GitHub, Figma, Google Cloud / Lab Products.
+<p align="center">
+  <code>> engineering intelligence at the intersection of AI, fintech, and IoT</code>
+</p>
 
 ---
 
-## 🏆 Academic Achievements & Awards
+### DYNAMIC STATS GRID
 
-I strive for excellence in both academics and competitive tech environments.
-*   🎓 **Current CGPA: 9.32** (BE - Information Science at MS Ramaiah Institute of Technology)
-*   🥇 **Winner** - Innovex Hackathon (2026)
-*   🌟 **Top-7 Finalist** - Limitless Mind Hackathon (2025)
-*   🎖️ **Semifinalist** - SIH (Smart India Hackathon) (2025)
-*   🥉 **2nd Runner Up** - Tech Fest '25 Shark Tank (2025)
-*   💼 **Junior Placement Coordinator** (2026)
-*   🏫 **Ranked 1st in College** - Higher Secondary (95.53% overall) & Recipient of multiple extracurricular awards.
-
----
-
-
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://ghrs.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=tokyonight&hide_border=true" alt="Rohan's GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&theme=tokyo-night&hide_border=true&area=true" alt="Rohan's GitHub Activity Graph" width="100%" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=00bfff&icon_color=39ff14" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" alt="GitHub Streak" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=00bfff&hide=html,css" alt="Top Languages" /></td>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=darkhub&no-bg=true&column=6" alt="Trophy Rack" /></td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
-</div>
+### SNAKE CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### ACTIVITY HEATMAP
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&theme=github-compact&bg_color=0d1117&line=00bfff&color=39ff14&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### PROJECTS — OPERATOR DOSSIER FORMAT
+
+[CLASSIFIED — LEVEL 3]
+CODENAME: AUSTERE-VAULT
+MISSION: Secure distributed ledger implementation utilizing Lattice-based Post-Quantum Cryptography (PQC).
+STACK: ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39ff14) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=39ff14) ![Cryptography](https://img.shields.io/badge/PQC-0d1117?style=flat-square&color=39ff14)
+STATUS: DEPLOYED
+---
+
+[CLASSIFIED — LEVEL 2]
+CODENAME: NEURAL-STREAM
+MISSION: High-throughput real-time IoT sensor telemetry analysis using Kafka and Java Vert.x.
+STACK: ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39ff14) ![Apache Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=39ff14) ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=39ff14)
+STATUS: ACTIVE
+---
+
+[CLASSIFIED — LEVEL 1]
+CODENAME: QUANTUM-BRIDGE
+MISSION: Benchmarking tool for NIST-standardized PQC algorithms across hybrid cloud environments.
+STACK: ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39ff14) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=39ff14) ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=39ff14)
+STATUS: ARCHIVED
+---
+
+### ACHIEVEMENTS — WAR RECORD
+
+```text
++----------------------------------+--------+------+
+| EVENT                            | RESULT | YEAR |
++----------------------------------+--------+------+
+| GLOBAL JAVA CHALLENGE            | RANK 1 | 2024 |
+| QUANTUM SECURITY SYMPOSIUM       | LEAD   | 2025 |
+| FINTECH SCALING INNOVATION       | FINAL  | 2023 |
++----------------------------------+--------+------+
+```
+
+---
+
+### SKILLS MATRIX — RADAR STYLE
+
+```text
+AI/ML Systems     [##########] 95%
+Backend (Java/SB) [#########-] 88%
+Quantum PQC       [########--] 82%
+DevOps/Infra      [#######---] 72%
+Data Engineering  [######----] 60%
+```
+
+---
+
+### GITHUB METRICS
+
+![Commits](https://img.shields.io/badge/Commits_This_Year-582-0d1117?style=flat-square&labelColor=0d1117&color=39ff14)
+![Issues](https://img.shields.io/badge/Open_Issues-14-0d1117?style=flat-square&labelColor=0d1117&color=39ff14)
+![PRs](https://img.shields.io/badge/PRs_Merged-89-0d1117?style=flat-square&labelColor=0d1117&color=39ff14)
+![Stars](https://img.shields.io/badge/Stars_Earned-127-0d1117?style=flat-square&labelColor=0d1117&color=39ff14)
+![Followers](https://img.shields.io/badge/Followers-42-0d1117?style=flat-square&labelColor=0d1117&color=39ff14)
+
+---
+
+### FOOTER — SYSTEM SIGNATURE
+
+```text
+> SYSTEM: rohan.dev v2.0.26
+> STATUS: online
+> LAST COMMIT: [https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&labelColor=0d1117&color=39ff14]
+> UPTIME: since 2004
+> "the system doesn't sleep."
+```
+
+---
+
+### SYSTEM CONFIGURATION: SNAKE GENERATOR
+
+To enable the animated contribution snake, create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
