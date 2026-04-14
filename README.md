@@ -44,9 +44,7 @@
 
 <h3 align="center">ROHAN-CHAND-M (ROHAN CHAND)</h3>
 <div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/metrics.svg" width="100%" alt="Metrics Dashboard" />
-  </p>
+
   <p>
     <img src="https://github-readme-stats-one.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_color=a855f7" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=00bfff" alt="GitHub Streak" />
