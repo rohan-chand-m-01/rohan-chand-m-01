@@ -7,11 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohan-chand-m-01&label=PROFILE+VIEWS&color=blueviolet&style=flat-square&labelColor=0d1117" alt="Views" />
-  <img src="https://img.shields.io/github/followers/rohan-chand-m-01?style=flat-square&label=FOLLOWERS&color=ec4899&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rohan-chand-m-01?style=flat-square&label=TOTAL+STARS&color=yellow&labelColor=0d1117" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/rohan-chand-m-01?style=flat-square&label=PUBLIC+REPOS&color=00bfff&labelColor=0d1117" alt="Repos" />
-  <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=LAST+COMMIT&color=brightgreen&labelColor=0d1117" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/VIEWS-FAST_GROWING-blueviolet?style=flat-square&labelColor=0d1117" alt="Views" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-ec4899?style=flat-square&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/REPOS-30+-00bfff?style=flat-square&labelColor=0d1117" alt="Repos" />
 </p>
 
 ---
@@ -31,9 +29,6 @@
 **Cloud & DevOps**  
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman)](https://skillicons.dev)
 
-**Databases**  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
-
 </div>
 
 ---
@@ -45,12 +40,13 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=radical&hide_border=true&ring=a855f7&fire=ec4899" alt="Streak" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=radical&hide_border=true" alt="Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-chand-m-01&theme=radical&hide_border=true" alt="Streak" /></td>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Languages" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=radical&column=6&row=1&no-bg=true" alt="Trophies" /></td>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Languages" />
+      </td>
     </tr>
   </table>
 </div>
@@ -58,11 +54,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=CONTRIBUTION+GRAPH&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Contributions" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-chand-m-01&theme=radical" width="100%" alt="Profile Summary" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=CONTRIBUTION+STREAMS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Contributions" />
 </p>
 
 <p align="center">
@@ -76,19 +68,17 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=PINNED+PROJECTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=CORE+PROJECTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Projects" />
 </p>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Heapify&theme=radical&border_color=a855f7" alt="Heapify" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Drifting-Oracle&theme=radical&border_color=a855f7" alt="Drifting Oracle" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-chand-m-01&repo=Lorem-Epsum&theme=radical&border_color=a855f7" alt="Lorem Epsum" /></td>
-    </tr>
-  </table>
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Heapify** | Multi-agent NBFC compliance decisioning | LangGraph, Bedrock, FastAPI |
+| **Drifting Oracle** | Credit risk monitoring + LLM governance | Databricks, SHAP, Next.js |
+| **Lorem Epsum** | IoT vaccine cold chain AI surveillance | Raspberry Pi, Claude AI |
+
 </div>
 
 ---
@@ -104,8 +94,6 @@
 | Innovex Hackathon | ![](https://img.shields.io/badge/Winner-gold?style=flat-square) | 2026 |
 | Agentathon | ![](https://img.shields.io/badge/1st_Runner_Up-silver?style=flat-square) | 2026 |
 | Smart India Hackathon | ![](https://img.shields.io/badge/Semifinalist-blue?style=flat-square) | 2025 |
-| Shark Tank (College) | ![](https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square) | 2025 |
-| Limitless Mind Hackathon | ![](https://img.shields.io/badge/Top_7-green?style=flat-square) | 2025 |
 
 </div>
 
@@ -118,7 +106,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/rohan-chand"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
   <a href="mailto:rohan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://github.com/rohan-chand-m-01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
@@ -127,8 +114,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=last+updated&color=a855f7" alt="Auto Sync" />
 </p>
