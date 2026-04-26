@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information+Science+Engineer+%7C+AI+Systems+%7C+Web3+%7C+Multi-Agent+Pipelines+%7C+MSRIT+Bengaluru&descAlignY=60&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information+Science+Engineer+%7C+Full+Stack+Dev+%7C+Agentic+AI+%7C+Web3+%7C+Quantum+PQC&descAlignY=60&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=a855f7&center=true&vCenter=true&width=600&lines=Building+Multi-Agent+AI+Systems;Web3+%2B+Smart+Contract+Engineering;RAG+Pipeline+Engineer;IoT+%2B+AI+Integration;FinTech+Compliance+Automation;Full+Stack+with+FastAPI+%2B+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=a855f7&center=true&vCenter=true&width=600&lines=Information+Science+Engineer;Full+Stack+Developer;Agentic+AI+Engineer;Web3+%2B+Smart+Contracts;Quantum+PQC+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
