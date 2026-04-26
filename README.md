@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information+Science+Engineer+%7C+AI+Systems+%7C+Multi-Agent+Pipelines+%7C+MSRIT+Bengaluru&descAlignY=60&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information+Science+Engineer+%7C+AI+Systems+%7C+Web3+%7C+Multi-Agent+Pipelines+%7C+MSRIT+Bengaluru&descAlignY=60&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=a855f7&center=true&vCenter=true&width=600&lines=Building+Multi-Agent+AI+Systems;RAG+Pipeline+Engineer;IoT+%2B+AI+Integration;FinTech+Compliance+Automation;Full+Stack+with+FastAPI+%2B+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=a855f7&center=true&vCenter=true&width=600&lines=Building+Multi-Agent+AI+Systems;Web3+%2B+Smart+Contract+Engineering;RAG+Pipeline+Engineer;IoT+%2B+AI+Integration;FinTech+Compliance+Automation;Full+Stack+with+FastAPI+%2B+Next.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohan-chand-m-01&label=PROFILE+VIEWS&color=blueviolet&style=flat-square&labelColor=0d1117" alt="Views" />
    <img src="https://img.shields.io/github/followers/rohan-chand-m-01?style=flat-square&label=FOLLOWERS&color=ec4899&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=TOTAL+STARS&color=yellow&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:rohan-chand-m-01&query=$.total_count&label=PUBLIC%20REPOS%20WITH%20STARS&color=yellow&style=flat-square&labelColor=0d1117" alt="Stars" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rohan-chand-m-01&query=$.public_repos&label=PUBLIC%20REPOS&color=00bfff&style=flat-square&labelColor=0d1117" alt="Repos" />
   <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=LAST+COMMIT&color=brightgreen&labelColor=0d1117" alt="Last Commit" />
 </p>
@@ -23,7 +23,7 @@
 <div align="center">
 
 **Languages & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,ts,fastapi,spring,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,ts,solidity,fastapi,spring,react,nextjs)](https://skillicons.dev)
 
 **AI / ML**  
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
@@ -46,11 +46,11 @@
 <div align="center">
 
   <p>
-    <img src="https://github-readme-stats-one.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_color=a855f7" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_color=a855f7" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=00bfff" alt="GitHub Streak" />
   </p>
   <p>
-    <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </p>
 </div>
 
