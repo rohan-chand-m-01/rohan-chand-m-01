@@ -43,15 +43,15 @@
 </p>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" width="100%" alt="Trophy Wall" />
+    <img src="https://github-profile-trophy.zeabur.app/?username=rohan-chand-m-01&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" width="100%" alt="Trophy Wall" />
   </p>
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050814&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff" alt="GitHub Stats" height="195px" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050814&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff" alt="GitHub Stats" height="195px" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=050814&title_color=00f2fe&text_color=ffffff" alt="Top Languages" height="195px" />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=050814&title_color=00f2fe&text_color=ffffff" alt="Top Languages" height="195px" />
     </a>
   </p>
 
