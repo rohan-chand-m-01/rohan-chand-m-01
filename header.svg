@@ -7,9 +7,31 @@
       <stop offset="100%" stop-color="#000000" stop-opacity="1" />
     </linearGradient>
 
-    <!-- Glowing effect for Moon and text -->
+    <!-- Ocean Gradient for Earth -->
+    <linearGradient id="oceanGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00C6FF" />
+      <stop offset="100%" stop-color="#0072FF" />
+    </linearGradient>
+
+    <!-- Land Gradient for Earth (Neon Green/Teal) -->
+    <linearGradient id="landGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF87" />
+      <stop offset="100%" stop-color="#60EFFF" />
+    </linearGradient>
+
+    <!-- Clip path to keep continents inside Earth's sphere -->
+    <clipPath id="earthClip">
+      <circle cx="875" cy="65" r="32" />
+    </clipPath>
+
+    <!-- Glowing effects -->
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="earthAtmosphere" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
 
@@ -29,9 +51,9 @@
       0%, 100% { opacity: 0.2; transform: scale(0.8); }
       50% { opacity: 1; transform: scale(1.2); }
     }
-    @keyframes pulse {
-      0%, 100% { opacity: 0.7; }
-      50% { opacity: 0.95; }
+    @keyframes rotateEarth {
+      0% { transform: translate(0px, 0px); }
+      100% { transform: translate(-60px, 0px); }
     }
     .star {
       fill: #ffffff;
@@ -41,9 +63,20 @@
     .star-t2 { animation: twinkle 4s infinite ease-in-out 1s; }
     .star-t3 { animation: twinkle 5s infinite ease-in-out 2s; }
     .star-t4 { animation: twinkle 2.5s infinite ease-in-out 0.5s; }
-    .moon {
-      fill: #E0F7FA;
-      filter: url(#glow);
+    
+    .earth-land {
+      fill: url(#landGradient);
+    }
+    .earth-clouds {
+      fill: #ffffff;
+      opacity: 0.3;
+    }
+    .atmosphere {
+      fill: none;
+      stroke: #00F2FE;
+      stroke-width: 2;
+      opacity: 0.7;
+      filter: url(#earthAtmosphere);
     }
     .constellation-line {
       stroke: #00F2FE;
@@ -68,7 +101,7 @@
   <circle cx="150" cy="80" r="70" class="glow-dot" />
   <circle cx="850" cy="70" r="90" class="glow-dot" />
 
-  <!-- Constellations / Space Grid (Real vector lines, not emojis) -->
+  <!-- Constellations / Space Grid -->
   <line x1="80" y1="50" x2="140" y2="70" class="constellation-line" />
   <line x1="140" y1="70" x2="200" y2="40" class="constellation-line" />
   <line x1="200" y1="40" x2="250" y2="90" class="constellation-line" />
@@ -97,8 +130,26 @@
   <circle cx="930" cy="60" r="1.8" class="star star-t2" />
   <circle cx="960" cy="80" r="1.5" class="star star-t3" />
 
-  <!-- Gorgeous crescent moon in the top right -->
-  <path d="M 865 40 A 28 28 0 1 0 905 80 A 24 24 0 1 1 865 40 Z" class="moon" />
+  <!-- Premium Planet Earth Vector Graphic -->
+  <!-- 1. Atmospheric Glow Behind Earth -->
+  <circle cx="875" cy="65" r="32" class="atmosphere" />
+
+  <!-- 2. Earth Sphere Base (Ocean) -->
+  <circle cx="875" cy="65" r="32" fill="url(#oceanGradient)" />
+
+  <!-- 3. Continents & Clouds (Clipped inside the Earth sphere) -->
+  <g clip-path="url(#earthClip)">
+    <!-- Stylized Americas and Europe/Africa -->
+    <path d="M 850 45 Q 860 42 858 55 T 865 75 T 878 85 T 870 98 Q 860 98 855 85 Z" class="earth-land" />
+    <path d="M 885 40 Q 895 48 890 60 T 880 75 T 885 92 Q 898 90 892 78 T 905 55 Z" class="earth-land" />
+    <!-- Small Islands -->
+    <circle cx="878" cy="52" r="2" class="earth-land" />
+    <circle cx="875" cy="72" r="1.5" class="earth-land" />
+    
+    <!-- Atmospheric Clouds Layer -->
+    <path d="M 840 58 Q 860 50 880 65 T 910 52 Q 895 75 870 70 Z" class="earth-clouds" />
+    <path d="M 850 78 Q 870 72 890 82 T 910 90 Q 890 98 870 92 Z" class="earth-clouds" />
+  </g>
 
   <!-- Title & Subtitle (Outfit/Inter styled vector typography) -->
   <g filter="url(#textShadow)">
