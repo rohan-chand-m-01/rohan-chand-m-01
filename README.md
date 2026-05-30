@@ -42,17 +42,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=GITHUB+ANALYTICS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Analytics" />
 </p>
 
-<h3 align="center">ROHAN-CHAND-M (ROHAN CHAND)</h3>
-<div align="center">
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_color=a855f7" alt="GitHub Stats" />
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/metrics.svg" alt="GitHub Metrics" />
     <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=00bfff" alt="GitHub Streak" />
   </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </p>
-</div>
 
 ---
 
