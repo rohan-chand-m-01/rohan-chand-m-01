@@ -126,40 +126,40 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=ACHIEVEMENTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Achievements" />
 </p>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🏆 2026 Achievements</h3>
-      <table width="100%">
+      <table align="center" width="100%">
         <thead>
           <tr>
-            <th align="left">Event</th>
+            <th align="center">Event</th>
             <th align="center">Result</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Innovex Hackathon</td>
+            <td align="center">Innovex Hackathon</td>
             <td align="center"><img src="https://img.shields.io/badge/Winner-gold?style=flat-square" alt="Winner" /></td>
           </tr>
           <tr>
-            <td>Innovatex BCU Hackathon</td>
+            <td align="center">Innovatex BCU Hackathon</td>
             <td align="center"><img src="https://img.shields.io/badge/Winner-gold?style=flat-square" alt="Winner" /></td>
           </tr>
           <tr>
-            <td>Agentathon</td>
+            <td align="center">Agentathon</td>
             <td align="center"><img src="https://img.shields.io/badge/1st_Runner_Up-silver?style=flat-square" alt="1st Runner Up" /></td>
           </tr>
           <tr>
-            <td>Altaria National Hackathon</td>
+            <td align="center">Altaria National Hackathon</td>
             <td align="center"><img src="https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square" alt="2nd Runner Up" /></td>
           </tr>
           <tr>
-            <td>NMIT HACKS</td>
+            <td align="center">NMIT HACKS</td>
             <td align="center"><img src="https://img.shields.io/badge/Finalist-blue?style=flat-square" alt="Finalist" /></td>
           </tr>
           <tr>
-            <td>Hack A War</td>
+            <td align="center">Hack A War</td>
             <td align="center"><img src="https://img.shields.io/badge/Top_10-green?style=flat-square" alt="Top 10" /></td>
           </tr>
         </tbody>
@@ -167,32 +167,32 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏆 2025 Achievements</h3>
-      <table width="100%">
+      <table align="center" width="100%">
         <thead>
           <tr>
-            <th align="left">Event</th>
+            <th align="center">Event</th>
             <th align="center">Result</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Smart India Hackathon</td>
+            <td align="center">Smart India Hackathon</td>
             <td align="center"><img src="https://img.shields.io/badge/Semifinalist-blue?style=flat-square" alt="Semifinalist" /></td>
           </tr>
           <tr>
-            <td>UIP Hackathon</td>
+            <td align="center">UIP Hackathon</td>
             <td align="center"><img src="https://img.shields.io/badge/Semifinalist-blue?style=flat-square" alt="Semifinalist" /></td>
           </tr>
           <tr>
-            <td>Shark Tank (College)</td>
+            <td align="center">Shark Tank (College)</td>
             <td align="center"><img src="https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square" alt="2nd Runner Up" /></td>
           </tr>
           <tr>
-            <td>UIUX Solo Competition</td>
+            <td align="center">UIUX Solo Competition</td>
             <td align="center"><img src="https://img.shields.io/badge/Runner_Up-silver?style=flat-square" alt="Runner Up" /></td>
           </tr>
           <tr>
-            <td>Limitless Mind Hackathon</td>
+            <td align="center">Limitless Mind Hackathon</td>
             <td align="center"><img src="https://img.shields.io/badge/Top_7-green?style=flat-square" alt="Top 7" /></td>
           </tr>
         </tbody>
