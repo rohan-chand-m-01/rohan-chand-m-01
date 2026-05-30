@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:000000&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+stack+developer+%7C+Web+3+Builder+%7C+GenAI+and+Agentic+AI+Practitioner+%7C+open+source+contributor&descAlignY=60&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:0A192F,100:000000&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+stack+developer+%7C+Web+3+Builder+%7C+GenAI+and+Agentic+AI+Practitioner+%7C+open+source+contributor&descAlignY=60&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=40&text=TECH+ARSENAL&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Tech Arsenal" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=TECH+ARSENAL&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Tech Arsenal" />
 </p>
 
 <div align="center">
@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=40&text=GITHUB+ANALYTICS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Analytics" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=GITHUB+ANALYTICS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Analytics" />
 </p>
 
 <h3 align="center">ROHAN-CHAND-M (ROHAN CHAND)</h3>
@@ -57,7 +57,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=40&text=CONTRIBUTION+GRID&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Grid" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=CONTRIBUTION+GRID&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Grid" />
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=40&text=PINNED+PROJECTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=PINNED+PROJECTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Projects" />
 </p>
 
 <div align="center">
@@ -110,7 +110,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=40&text=ACHIEVEMENTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Achievements" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=ACHIEVEMENTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Achievements" />
 </p>
 
 <div align="center">
@@ -128,7 +128,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E50914,100:000000&height=40&text=CONNECT&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Connect" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=CONNECT&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Connect" />
 </p>
 
 <p align="center">
@@ -142,7 +142,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:000000&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:0A192F,100:000000&height=100&section=footer" width="100%" alt="Footer" />
 </p>
 
 <p align="center">
