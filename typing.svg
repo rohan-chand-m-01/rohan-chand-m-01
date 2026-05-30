@@ -1,0 +1,272 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100">
+  <defs>
+    <!-- Clip Paths for Typing Effect -->
+    <clipPath id="clip1">
+      <rect id="clip-rect1" x="0" y="-25" width="0" height="35" />
+    </clipPath>
+    <clipPath id="clip2">
+      <rect id="clip-rect2" x="0" y="-25" width="0" height="35" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect id="clip-rect3" x="0" y="-25" width="0" height="35" />
+    </clipPath>
+    <clipPath id="clip4">
+      <rect id="clip-rect4" x="0" y="-25" width="0" height="35" />
+    </clipPath>
+
+    <!-- Text Shadows for chromatic aberration glitch -->
+    <filter id="redShadow">
+      <feOffset dx="-1.5" dy="0" result="offset" />
+      <feFlood flood-color="#ff0055" result="color" />
+      <feComposite operator="in" in="color" in2="offset" result="shadow" />
+      <feMerge>
+        <feMergeNode in="shadow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="cyanShadow">
+      <feOffset dx="1.5" dy="0" result="offset" />
+      <feFlood flood-color="#00f2fe" result="color" />
+      <feComposite operator="in" in="color" in2="offset" result="shadow" />
+      <feMerge>
+        <feMergeNode in="shadow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    /* Group visibility cycles */
+    @keyframes showGroup1 {
+      0%, 24% { opacity: 1; visibility: visible; }
+      25%, 100% { opacity: 0; visibility: hidden; }
+    }
+    @keyframes showGroup2 {
+      0%, 24% { opacity: 0; visibility: hidden; }
+      25%, 49% { opacity: 1; visibility: visible; }
+      50%, 100% { opacity: 0; visibility: hidden; }
+    }
+    @keyframes showGroup3 {
+      0%, 49% { opacity: 0; visibility: hidden; }
+      50%, 74% { opacity: 1; visibility: visible; }
+      75%, 100% { opacity: 0; visibility: hidden; }
+    }
+    @keyframes showGroup4 {
+      0%, 74% { opacity: 0; visibility: hidden; }
+      75%, 99% { opacity: 1; visibility: visible; }
+      100% { opacity: 0; visibility: hidden; }
+    }
+
+    /* Typing width / cursor movement cycles */
+    @keyframes type1 {
+      0% { width: 0; }
+      2% { width: 0; }
+      7% { width: 250px; } /* type in */
+      20% { width: 250px; }
+      22% { width: 0; }    /* delete */
+      25%, 100% { width: 0; }
+    }
+    @keyframes moveCursor1 {
+      0% { x: 0; }
+      2% { x: 0; }
+      7% { x: 250px; }
+      20% { x: 250px; }
+      22% { x: 0; }
+      25%, 100% { x: 0; }
+    }
+
+    @keyframes type2 {
+      0%, 25% { width: 0; }
+      27% { width: 0; }
+      32% { width: 150px; }
+      45% { width: 150px; }
+      47% { width: 0; }
+      50%, 100% { width: 0; }
+    }
+    @keyframes moveCursor2 {
+      0%, 25% { x: 0; }
+      27% { x: 0; }
+      32% { x: 150px; }
+      45% { x: 150px; }
+      47% { x: 0; }
+      50%, 100% { x: 0; }
+    }
+
+    @keyframes type3 {
+      0%, 50% { width: 0; }
+      52% { width: 0; }
+      58% { width: 400px; }
+      70% { width: 400px; }
+      72% { width: 0; }
+      75%, 100% { width: 0; }
+    }
+    @keyframes moveCursor3 {
+      0%, 50% { x: 0; }
+      52% { x: 0; }
+      58% { x: 400px; }
+      70% { x: 400px; }
+      72% { x: 0; }
+      75%, 100% { x: 0; }
+    }
+
+    @keyframes type4 {
+      0%, 75% { width: 0; }
+      77% { width: 0; }
+      82% { width: 285px; }
+      95% { width: 285px; }
+      97% { width: 0; }
+      100% { width: 0; }
+    }
+    @keyframes moveCursor4 {
+      0%, 75% { x: 0; }
+      77% { x: 0; }
+      82% { x: 285px; }
+      95% { x: 285px; }
+      97% { x: 0; }
+      100% { x: 0; }
+    }
+
+    /* Chromatic aberration jitter glitch */
+    @keyframes glitchRed {
+      0%, 100% { transform: translate(0, 0) skew(0deg); opacity: 0.9; }
+      8% { transform: translate(-2px, 1px) skew(-2deg); opacity: 1; }
+      9% { transform: translate(1px, -1px) skew(3deg); opacity: 1; }
+      10% { transform: translate(0, 0) skew(0deg); }
+      55% { transform: translate(0, 0); }
+      56% { transform: translate(-3px, -1px) skew(5deg); }
+      57% { transform: translate(2px, 2px) skew(-5deg); }
+      58% { transform: translate(0, 0); }
+      88% { transform: translate(0, 0); }
+      89% { transform: translate(-1px, 2px) skew(2deg); }
+      90% { transform: translate(0, 0); }
+    }
+    @keyframes glitchCyan {
+      0%, 100% { transform: translate(0, 0) skew(0deg); opacity: 0.9; }
+      8% { transform: translate(2px, -1px) skew(2deg); opacity: 1; }
+      9% { transform: translate(-1px, 1px) skew(-3deg); opacity: 1; }
+      10% { transform: translate(0, 0) skew(0deg); }
+      55% { transform: translate(0, 0); }
+      56% { transform: translate(3px, 1px) skew(-3deg); }
+      57% { transform: translate(-2px, -2px) skew(3deg); }
+      58% { transform: translate(0, 0); }
+      88% { transform: translate(0, 0); }
+      89% { transform: translate(1px, -2px) skew(-1deg); }
+      90% { transform: translate(0, 0); }
+    }
+
+    /* Assigning animations */
+    .g1 { animation: showGroup1 20s infinite; }
+    #clip-rect1 { animation: type1 20s infinite; }
+    #cursor1 { animation: moveCursor1 20s infinite; }
+
+    .g2 { animation: showGroup2 20s infinite; }
+    #clip-rect2 { animation: type2 20s infinite; }
+    #cursor2 { animation: moveCursor2 20s infinite; }
+
+    .g3 { animation: showGroup3 20s infinite; }
+    #clip-rect3 { animation: type3 20s infinite; }
+    #cursor3 { animation: moveCursor3 20s infinite; }
+
+    .g4 { animation: showGroup4 20s infinite; }
+    #clip-rect4 { animation: type4 20s infinite; }
+    #cursor4 { animation: moveCursor4 20s infinite; }
+
+    /* Glitch layers styled with Fira Code monospace */
+    .main-text {
+      fill: #ffffff;
+      font-family: 'Fira Code', 'JetBrains Mono', 'Segoe UI Mono', Consolas, monospace;
+      font-size: 20px;
+      font-weight: 600;
+    }
+    .glitch-r {
+      fill: #ff0055;
+      font-family: 'Fira Code', 'JetBrains Mono', 'Segoe UI Mono', Consolas, monospace;
+      font-size: 20px;
+      font-weight: 600;
+      animation: glitchRed 4s infinite steps(1);
+      opacity: 0.85;
+    }
+    .glitch-c {
+      fill: #00f2fe;
+      font-family: 'Fira Code', 'JetBrains Mono', 'Segoe UI Mono', Consolas, monospace;
+      font-size: 20px;
+      font-weight: 600;
+      animation: glitchCyan 4s infinite steps(1);
+      opacity: 0.85;
+    }
+
+    .cursor {
+      fill: #00f2fe;
+      animation: blink 0.8s infinite;
+    }
+    .prompt {
+      fill: #4f5b66;
+      font-family: 'Fira Code', 'JetBrains Mono', monospace;
+      font-size: 20px;
+      font-weight: 600;
+    }
+    .prompt-path {
+      fill: #00f2fe;
+    }
+  </style>
+
+  <!-- IDE Window / Console Background Panel -->
+  <rect width="800" height="100" rx="10" fill="#050814" stroke="#1f2937" stroke-width="1.5" />
+
+  <!-- Terminal window navigation dots -->
+  <circle cx="25" cy="25" r="5" fill="#ff5f56" />
+  <circle cx="40" cy="25" r="5" fill="#ffbd2e" />
+  <circle cx="55" cy="25" r="5" fill="#27c93f" />
+
+  <!-- Shell Prompt (IDE Text Style) -->
+  <text x="25" y="65" class="prompt">
+    <tspan fill="#6272a4">rohan</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#50fa7b">agentic-dev</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#8be9fd">~</tspan><tspan fill="#f8f8f2">$ </tspan>
+  </text>
+
+  <!-- Animated Glitch Typing Text Groups (starting right after the shell prompt at x=235) -->
+  
+  <!-- Line 1: Full Stack Developer -->
+  <g class="g1" transform="translate(235, 65)">
+    <g clip-path="url(#clip1)">
+      <text x="0" y="0" class="glitch-r">Full Stack Developer</text>
+      <text x="0" y="0" class="glitch-c">Full Stack Developer</text>
+      <text x="0" y="0" class="main-text">Full Stack Developer</text>
+    </g>
+    <rect id="cursor1" x="0" y="-20" width="3" height="24" class="cursor" />
+  </g>
+
+  <!-- Line 2: Web3 Builder -->
+  <g class="g2" transform="translate(235, 65)">
+    <g clip-path="url(#clip2)">
+      <text x="0" y="0" class="glitch-r">Web3 Builder</text>
+      <text x="0" y="0" class="glitch-c">Web3 Builder</text>
+      <text x="0" y="0" class="main-text">Web3 Builder</text>
+    </g>
+    <rect id="cursor2" x="0" y="-20" width="3" height="24" class="cursor" />
+  </g>
+
+  <!-- Line 3: GenAI and Agentic AI Practitioner -->
+  <g class="g3" transform="translate(235, 65)">
+    <g clip-path="url(#clip3)">
+      <text x="0" y="0" class="glitch-r">GenAI and Agentic AI Practitioner</text>
+      <text x="0" y="0" class="glitch-c">GenAI and Agentic AI Practitioner</text>
+      <text x="0" y="0" class="main-text">GenAI and Agentic AI Practitioner</text>
+    </g>
+    <rect id="cursor3" x="0" y="-20" width="3" height="24" class="cursor" />
+  </g>
+
+  <!-- Line 4: Open Source Contributor -->
+  <g class="g4" transform="translate(235, 65)">
+    <g clip-path="url(#clip4)">
+      <text x="0" y="0" class="glitch-r">Open Source Contributor</text>
+      <text x="0" y="0" class="glitch-c">Open Source Contributor</text>
+      <text x="0" y="0" class="main-text">Open Source Contributor</text>
+    </g>
+    <rect id="cursor4" x="0" y="-20" width="3" height="24" class="cursor" />
+  </g>
+</svg>
