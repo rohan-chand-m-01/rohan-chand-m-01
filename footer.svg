@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="100%" height="120">
+  <defs>
+    <!-- Main Navy to Black Gradient -->
+    <linearGradient id="skyGradient" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="1" />
+      <stop offset="40%" stop-color="#0A192F" stop-opacity="1" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.3; }
+      50% { opacity: 1; }
+    }
+    .star {
+      fill: #ffffff;
+    }
+    .star-t1 { animation: twinkle 3s infinite ease-in-out; }
+    .star-t2 { animation: twinkle 4s infinite ease-in-out 1s; }
+    .star-t3 { animation: twinkle 2.5s infinite ease-in-out 0.5s; }
+  </style>
+
+  <!-- Waving Footer Shape -->
+  <path d="M 0 120 L 1000 120 L 1000 20 Q 750 60 500 30 T 0 15 Z" fill="url(#skyGradient)" />
+
+  <!-- Stars in the footer sky area -->
+  <circle cx="100" cy="80" r="1.2" class="star star-t1" />
+  <circle cx="250" cy="95" r="1.5" class="star star-t2" />
+  <circle cx="420" cy="70" r="1" class="star star-t3" />
+  <circle cx="580" cy="85" r="1.5" class="star star-t1" />
+  <circle cx="760" cy="75" r="1.2" class="star star-t2" />
+  <circle cx="900" cy="90" r="1.5" class="star star-t3" />
+</svg>

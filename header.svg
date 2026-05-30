@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
+  <defs>
+    <!-- Main Navy to Black Gradient -->
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="1" />
+      <stop offset="40%" stop-color="#0A192F" stop-opacity="1" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="1" />
+    </linearGradient>
+
+    <!-- Glowing effect for Moon and text -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Text Shadow -->
+    <filter id="textShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.8" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.2; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.2); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.7; }
+      50% { opacity: 0.95; }
+    }
+    .star {
+      fill: #ffffff;
+      transform-origin: center;
+    }
+    .star-t1 { animation: twinkle 3s infinite ease-in-out; }
+    .star-t2 { animation: twinkle 4s infinite ease-in-out 1s; }
+    .star-t3 { animation: twinkle 5s infinite ease-in-out 2s; }
+    .star-t4 { animation: twinkle 2.5s infinite ease-in-out 0.5s; }
+    .moon {
+      fill: #E0F7FA;
+      filter: url(#glow);
+    }
+    .constellation-line {
+      stroke: #00F2FE;
+      stroke-width: 0.5;
+      opacity: 0.2;
+      stroke-dasharray: 2 2;
+    }
+    .glow-dot {
+      fill: #00F2FE;
+      filter: url(#softGlow);
+      opacity: 0.3;
+    }
+  </style>
+
+  <!-- Background Layer 1: Parallax Deep Wave -->
+  <path d="M 0 0 L 1000 0 L 1000 215 Q 750 175 500 225 T 0 190 Z" fill="url(#skyGradient)" opacity="0.4" />
+
+  <!-- Background Layer 2: Main Wave -->
+  <path d="M 0 0 L 1000 0 L 1000 195 Q 750 235 500 205 T 0 225 Z" fill="url(#skyGradient)" />
+
+  <!-- Ambient Blue Glows in space -->
+  <circle cx="150" cy="80" r="70" class="glow-dot" />
+  <circle cx="850" cy="70" r="90" class="glow-dot" />
+
+  <!-- Constellations / Space Grid (Real vector lines, not emojis) -->
+  <line x1="80" y1="50" x2="140" y2="70" class="constellation-line" />
+  <line x1="140" y1="70" x2="200" y2="40" class="constellation-line" />
+  <line x1="200" y1="40" x2="250" y2="90" class="constellation-line" />
+  
+  <line x1="720" y1="60" x2="780" y2="90" class="constellation-line" />
+  <line x1="780" y1="90" x2="840" y2="40" class="constellation-line" />
+
+  <!-- Starfield (Real SVG circles with coordinated twinkling animations) -->
+  <circle cx="50" cy="40" r="1.5" class="star star-t1" />
+  <circle cx="80" cy="50" r="2" class="star star-t2" />
+  <circle cx="120" cy="30" r="1" class="star star-t3" />
+  <circle cx="140" cy="70" r="2.5" class="star star-t4" />
+  <circle cx="170" cy="110" r="1.5" class="star star-t1" />
+  <circle cx="200" cy="40" r="2" class="star star-t3" />
+  <circle cx="250" cy="90" r="1.2" class="star star-t2" />
+  <circle cx="290" cy="50" r="1.8" class="star star-t4" />
+  <circle cx="340" cy="35" r="1.5" class="star star-t1" />
+  
+  <circle cx="670" cy="45" r="1" class="star star-t3" />
+  <circle cx="720" cy="60" r="2.2" class="star star-t1" />
+  <circle cx="750" cy="110" r="1.5" class="star star-t4" />
+  <circle cx="780" cy="90" r="2" class="star star-t2" />
+  <circle cx="810" cy="120" r="1.2" class="star star-t3" />
+  <circle cx="840" cy="40" r="2.5" class="star star-t1" />
+  <circle cx="890" cy="110" r="1" class="star star-t4" />
+  <circle cx="930" cy="60" r="1.8" class="star star-t2" />
+  <circle cx="960" cy="80" r="1.5" class="star star-t3" />
+
+  <!-- Gorgeous crescent moon in the top right -->
+  <path d="M 865 40 A 28 28 0 1 0 905 80 A 24 24 0 1 1 865 40 Z" class="moon" />
+
+  <!-- Title & Subtitle (Outfit/Inter styled vector typography) -->
+  <g filter="url(#textShadow)">
+    <text x="50%" y="115" text-anchor="middle" font-family="'Outfit', 'Inter', 'Segoe UI', sans-serif" font-weight="800" font-size="52" fill="#ffffff" letter-spacing="-1">Rohan Chand M</text>
+    <text x="50%" y="162" text-anchor="middle" font-family="'Outfit', 'Inter', 'Segoe UI', sans-serif" font-weight="500" font-size="15.5" fill="#00F2FE" letter-spacing="0.5">Full stack developer  |  Web 3 Builder  |  GenAI and Agentic AI Practitioner  |  open source contributor</text>
+  </g>
+</svg>
