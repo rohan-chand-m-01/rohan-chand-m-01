@@ -126,23 +126,80 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=ACHIEVEMENTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Achievements" />
 </p>
 
-<div align="center">
-
-| Event | Result | Year |
-|---|---|---|
-| Innovex Hackathon | ![](https://img.shields.io/badge/Winner-gold?style=flat-square) | 2026 |
-| Innovatex BCU Hackathon | ![](https://img.shields.io/badge/Winner-gold?style=flat-square) | 2026 |
-| Agentathon | ![](https://img.shields.io/badge/1st_Runner_Up-silver?style=flat-square) | 2026 |
-| Altaria National Hackathon | ![](https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square) | 2026 |
-| NMIT HACKS | ![](https://img.shields.io/badge/Finalist-blue?style=flat-square) | 2026 |
-| Hack A War | ![](https://img.shields.io/badge/Top_10-green?style=flat-square) | 2026 |
-| Smart India Hackathon | ![](https://img.shields.io/badge/Semifinalist-blue?style=flat-square) | 2025 |
-| UIP Hackathon | ![](https://img.shields.io/badge/Semifinalist-blue?style=flat-square) | 2025 |
-| Shark Tank (College) | ![](https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square) | 2025 |
-| UIUX Solo Competition | ![](https://img.shields.io/badge/Runner_Up-silver?style=flat-square) | 2025 |
-| Limitless Mind Hackathon | ![](https://img.shields.io/badge/Top_7-green?style=flat-square) | 2025 |
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 2026 Achievements</h3>
+      <table width="100%">
+        <thead>
+          <tr>
+            <th align="left">Event</th>
+            <th align="center">Result</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Innovex Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Winner-gold?style=flat-square" alt="Winner" /></td>
+          </tr>
+          <tr>
+            <td>Innovatex BCU Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Winner-gold?style=flat-square" alt="Winner" /></td>
+          </tr>
+          <tr>
+            <td>Agentathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/1st_Runner_Up-silver?style=flat-square" alt="1st Runner Up" /></td>
+          </tr>
+          <tr>
+            <td>Altaria National Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square" alt="2nd Runner Up" /></td>
+          </tr>
+          <tr>
+            <td>NMIT HACKS</td>
+            <td align="center"><img src="https://img.shields.io/badge/Finalist-blue?style=flat-square" alt="Finalist" /></td>
+          </tr>
+          <tr>
+            <td>Hack A War</td>
+            <td align="center"><img src="https://img.shields.io/badge/Top_10-green?style=flat-square" alt="Top 10" /></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 2025 Achievements</h3>
+      <table width="100%">
+        <thead>
+          <tr>
+            <th align="left">Event</th>
+            <th align="center">Result</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Smart India Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Semifinalist-blue?style=flat-square" alt="Semifinalist" /></td>
+          </tr>
+          <tr>
+            <td>UIP Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Semifinalist-blue?style=flat-square" alt="Semifinalist" /></td>
+          </tr>
+          <tr>
+            <td>Shark Tank (College)</td>
+            <td align="center"><img src="https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square" alt="2nd Runner Up" /></td>
+          </tr>
+          <tr>
+            <td>UIUX Solo Competition</td>
+            <td align="center"><img src="https://img.shields.io/badge/Runner_Up-silver?style=flat-square" alt="Runner Up" /></td>
+          </tr>
+          <tr>
+            <td>Limitless Mind Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Top_7-green?style=flat-square" alt="Top 7" /></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
