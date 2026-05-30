@@ -225,13 +225,13 @@
 
   <!-- Shell Prompt (IDE Text Style) -->
   <text x="25" y="65" class="prompt">
-    <tspan fill="#6272a4">rohan</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#50fa7b">agentic-dev</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#8be9fd">~</tspan><tspan fill="#f8f8f2">$ </tspan>
+    <tspan fill="#6272a4">rohan</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#50fa7b">developer</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#8be9fd">~</tspan><tspan fill="#f8f8f2">$ </tspan>
   </text>
 
-  <!-- Animated Glitch Typing Text Groups (starting right after the shell prompt at x=235) -->
+  <!-- Animated Glitch Typing Text Groups (starting right after the shell prompt at x=216) -->
   
   <!-- Line 1: Full Stack Developer -->
-  <g class="g1" transform="translate(235, 65)">
+  <g class="g1" transform="translate(216, 65)">
     <g clip-path="url(#clip1)">
       <text x="0" y="0" class="glitch-r">Full Stack Developer</text>
       <text x="0" y="0" class="glitch-c">Full Stack Developer</text>
@@ -241,7 +241,7 @@
   </g>
 
   <!-- Line 2: Web3 Builder -->
-  <g class="g2" transform="translate(235, 65)">
+  <g class="g2" transform="translate(216, 65)">
     <g clip-path="url(#clip2)">
       <text x="0" y="0" class="glitch-r">Web3 Builder</text>
       <text x="0" y="0" class="glitch-c">Web3 Builder</text>
@@ -251,7 +251,7 @@
   </g>
 
   <!-- Line 3: GenAI and Agentic AI Practitioner -->
-  <g class="g3" transform="translate(235, 65)">
+  <g class="g3" transform="translate(216, 65)">
     <g clip-path="url(#clip3)">
       <text x="0" y="0" class="glitch-r">GenAI and Agentic AI Practitioner</text>
       <text x="0" y="0" class="glitch-c">GenAI and Agentic AI Practitioner</text>
@@ -261,7 +261,7 @@
   </g>
 
   <!-- Line 4: Open Source Contributor -->
-  <g class="g4" transform="translate(235, 65)">
+  <g class="g4" transform="translate(216, 65)">
     <g clip-path="url(#clip4)">
       <text x="0" y="0" class="glitch-r">Open Source Contributor</text>
       <text x="0" y="0" class="glitch-c">Open Source Contributor</text>
