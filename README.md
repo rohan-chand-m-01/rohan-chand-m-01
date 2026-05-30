@@ -70,11 +70,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=3D+CONTRIBUTION+GRID&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="3D Grid" />
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Calendar" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=GITHUB+ACTIVITY&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Github Activity" />
 </p>
 
 <p align="center">
