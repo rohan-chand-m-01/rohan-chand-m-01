@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./typing.svg?v=2" width="100%" alt="Typing SVG" />
+  <img src="./typing.svg?v=3" width="100%" alt="Typing SVG" />
 </p>
 
 <p align="center">
