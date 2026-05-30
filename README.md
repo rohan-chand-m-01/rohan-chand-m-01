@@ -43,19 +43,29 @@
 </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/metrics.svg" alt="GitHub Metrics" />
-    <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=00bfff" alt="GitHub Streak" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rohan-chand-m-01&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" width="100%" alt="Trophy Wall" />
   </p>
 
----
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050814&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff" alt="GitHub Stats" height="195px" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=050814&title_color=00f2fe&text_color=ffffff" alt="Top Languages" height="195px" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=BADGES+AND+ACHIEVEMENTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Badges" />
-</p>
+  <p align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&background=050814&ring=00f2fe&fire=00f2fe&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=00f2fe" alt="GitHub Streak" height="195px" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://holopin.io/@rohanchandm01"><img src="https://holopin.me/rohanchandm01" width="100%" alt="Holopin Board" /></a>
-</p>
+  <p align="center">
+    <a href="https://github.com/AshutoshDwivedi/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&bg_color=050814&color=ffffff&line=00f2fe&point=00f2fe&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    </a>
+  </p>
 
 ---
 
