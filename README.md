@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+stack+developer+%7C+Web+3+Builder+%7C+GenAI+%26+Agentic+AI+Practitioner+%7C+open+source+contributor&descAlignY=60&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+stack+developer+%7C+Web+3+Builder+%7C+GenAI+and+Agentic+AI+Practitioner+%7C+open+source+contributor&descAlignY=60&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=a855f7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Builder;GenAI+%26+Agentic+AI+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=a855f7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web3+Builder;GenAI+and+Agentic+AI+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
