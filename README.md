@@ -50,7 +50,11 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=CONTRIBUTION+GRID&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Grid" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=3D+CONTRIBUTION+GRID&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="3D Grid" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Calendar" />
 </p>
 
 <p align="center">
@@ -117,6 +121,16 @@
 | Limitless Mind Hackathon | ![](https://img.shields.io/badge/Top_7-green?style=flat-square) | 2025 |
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=BADGES+AND+ACHIEVEMENTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Badges" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@rohan-chand"><img src="https://holopin.io/api/user/board?user=rohan-chand" width="100%" alt="Holopin Board" /></a>
+</p>
 
 ---
 
