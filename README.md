@@ -134,6 +134,8 @@
 | Innovatex BCU Hackathon | ![](https://img.shields.io/badge/Winner-gold?style=flat-square) | 2026 |
 | Agentathon | ![](https://img.shields.io/badge/1st_Runner_Up-silver?style=flat-square) | 2026 |
 | Altaria National Hackathon | ![](https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square) | 2026 |
+| NMIT HACKS | ![](https://img.shields.io/badge/Finalist-blue?style=flat-square) | 2026 |
+| Hack A War | ![](https://img.shields.io/badge/Top_10-green?style=flat-square) | 2026 |
 | Smart India Hackathon | ![](https://img.shields.io/badge/Semifinalist-blue?style=flat-square) | 2025 |
 | UIP Hackathon | ![](https://img.shields.io/badge/Semifinalist-blue?style=flat-square) | 2025 |
 | Shark Tank (College) | ![](https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square) | 2025 |
