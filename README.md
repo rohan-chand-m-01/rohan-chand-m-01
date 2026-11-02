@@ -1,78 +1,87 @@
 <p align="center">
-  <img src="./assets/claude-code-wallpaper.jpeg" width="100%" alt="Claude Code surfing a colorful data wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:0A192F,100:000000&height=200&section=header&text=Rohan+Chand+M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+stack+developer+%7C+Web+3+Builder+%7C+Core+AI+Practitioner+%7C&descAlignY=60&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <code>┌─[ rohan@github ]─[ ~/profile ]</code><br />
-  <code>└──╼ $ whoami</code>
-</p>
-
-<h1 align="center">Rohan Chand M</h1>
-
-<p align="center"><strong>Web 2 Developer · AIML Practitioner &amp; Researcher</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILDING-0B1020?style=for-the-badge&logo=github&logoColor=FF5DA2" alt="Building" />
-  <img src="https://img.shields.io/badge/RESEARCHING-0B1020?style=for-the-badge&logo=pytorch&logoColor=FF5DA2" alt="Researching" />
-  <img src="https://komarev.com/ghpvc/?username=rohan-chand-m-01&label=PROFILE+VIEWS&color=ff5da2&style=for-the-badge&labelColor=0b1020" alt="Profile views" />
+  <img src="./developer.svg" width="100%" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:171334,100:FF5DA2&height=100&section=header" width="100%" alt="Navy and pink wave" />
+  <img src="https://komarev.com/ghpvc/?username=rohan-chand-m-01&label=PROFILE+VIEWS&color=blueviolet&style=flat-square&labelColor=0d1117" alt="Views" />
+   <img src="https://img.shields.io/github/followers/rohan-chand-m-01?style=flat-square&label=FOLLOWERS&color=ec4899&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:rohan-chand-m-01&query=$.total_count&label=PUBLIC%20REPOS%20WITH%20STARS&color=yellow&style=flat-square&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/rohan-chand-m-01&query=$.public_repos&label=PUBLIC%20REPOS&color=00bfff&style=flat-square&labelColor=0d1117" alt="Repos" />
+  <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=LAST+COMMIT&color=brightgreen&labelColor=0d1117" alt="Last Commit" />
 </p>
 
-## `01 / EXPERIENCE`
+---
 
-| Role | Organization | Timeline |
-|---|---|---|
-| Research Intern | NITK Surathkal | July – September 2026 |
-| Software Developer Intern | YathiRai | September 2026 – Present |
-| Software Product Design Intern | G-System | October 2026 – Present |
-| Software Developer Intern | Hashvalut | November 2026 – Present |
-
-## `02 / COMMUNITY`
-
-### Founder — Heapify Global Community
-
-- Leading **30+ core members** and a community of **1,000+ members**.
-- Organized **20+ collaborations**, including with **MLH, Gemini, Gemma, and Kaggle**.
-- Built college partnerships spanning **5+ colleges** and **3+ Indian states**.
-
-## `03 / RESEARCH & DEVELOPMENT`
-
-- **Stable Diffusion models and machine unlearning**
-- **Audio forensics**
-- **Fintech compliance, KYC, and AML**
-
-## `04 / TECH STACK`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=TECH+ARSENAL&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Tech Arsenal" />
+</p>
 
 <div align="center">
 
-**Backend & Web**<br />
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&logo=fastapi&logoColor=FF5DA2)
-![REST API](https://img.shields.io/badge/REST_API-0B1020?style=for-the-badge&logo=fastapi&logoColor=FF5DA2)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1020?style=for-the-badge&logo=springboot&logoColor=FF5DA2)
-![MERN](https://img.shields.io/badge/MERN-0B1020?style=for-the-badge&logo=mongodb&logoColor=FF5DA2)
+**Languages & Frameworks**  
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,ts,solidity,fastapi,spring,react,nextjs)](https://skillicons.dev)
 
-**Databases**<br />
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1020?style=for-the-badge&logo=mongodb&logoColor=FF5DA2)
-![MySQL](https://img.shields.io/badge/MySQL-0B1020?style=for-the-badge&logo=mysql&logoColor=FF5DA2)
-![SQLite](https://img.shields.io/badge/SQLite-0B1020?style=for-the-badge&logo=sqlite&logoColor=FF5DA2)
+**AI / ML**  
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
-**DevOps & Cloud**<br />
-![Docker](https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=FF5DA2)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0B1020?style=for-the-badge&logo=kubernetes&logoColor=FF5DA2)
-![AWS](https://img.shields.io/badge/AWS-0B1020?style=for-the-badge&logo=amazonaws&logoColor=FF5DA2)
+**Cloud & DevOps**  
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman)](https://skillicons.dev)
 
-**AI / ML**<br />
-![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=FF5DA2)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B1020?style=for-the-badge&logo=pytorch&logoColor=FF5DA2)
-![TorchVision](https://img.shields.io/badge/TorchVision-0B1020?style=for-the-badge&logo=pytorch&logoColor=FF5DA2)
-**Python libraries for AI, computer vision, and machine learning**
+**Databases**  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
 
 </div>
 
-## `05 / PINNED PROJECTS`
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=GITHUB+ANALYTICS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Analytics" />
+</p>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.zeabur.app/?username=rohan-chand-m-01&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" width="100%" alt="Trophy Wall" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050814&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff" alt="GitHub Stats" height="195px" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=050814&title_color=00f2fe&text_color=ffffff" alt="Top Languages" height="195px" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&background=050814&ring=00f2fe&fire=00f2fe&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=00f2fe" alt="GitHub Streak" height="195px" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/AshutoshDwivedi/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&bg_color=050814&color=ffffff&line=00f2fe&point=00f2fe&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    </a>
+  </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=GITHUB+ACTIVITY&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Github Activity" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=PINNED+PROJECTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Projects" />
+</p>
 
 <div align="center">
 
@@ -111,76 +120,107 @@
 
 </div>
 
-## `06 / ACHIEVEMENTS`
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/9%C3%97-Hackathon_Winner-FF5DA2?style=for-the-badge&labelColor=0B1020" alt="Nine-time hackathon winner" />
-  <img src="https://img.shields.io/badge/4%C3%97-Semifinalist-FF5DA2?style=for-the-badge&labelColor=0B1020" alt="Four semifinalist results listed" />
-  <img src="https://img.shields.io/badge/2%C3%97-Finalist_or_Top_5-FF5DA2?style=for-the-badge&labelColor=0B1020" alt="Two finalist or top five results listed" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=ACHIEVEMENTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Achievements" />
 </p>
 
-### 2026 highlights
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 2026 Achievements</h3>
+      <table align="center" width="100%">
+        <thead>
+          <tr>
+            <th align="center">Event</th>
+            <th align="center">Result</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center">Innovex Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Winner-gold?style=flat-square" alt="Winner" /></td>
+          </tr>
+          <tr>
+            <td align="center">Innovatex BCU Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Winner-gold?style=flat-square" alt="Winner" /></td>
+          </tr>
+          <tr>
+            <td align="center">Agentathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/1st_Runner_Up-silver?style=flat-square" alt="1st Runner Up" /></td>
+          </tr>
+          <tr>
+            <td align="center">Altaria National Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square" alt="2nd Runner Up" /></td>
+          </tr>
+          <tr>
+            <td align="center">NMIT HACKS</td>
+            <td align="center"><img src="https://img.shields.io/badge/Finalist-blue?style=flat-square" alt="Finalist" /></td>
+          </tr>
+          <tr>
+            <td align="center">Hack A War</td>
+            <td align="center"><img src="https://img.shields.io/badge/Top_10-green?style=flat-square" alt="Top 10" /></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 2025 Achievements</h3>
+      <table align="center" width="100%">
+        <thead>
+          <tr>
+            <th align="center">Event</th>
+            <th align="center">Result</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center">Smart India Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Semifinalist-blue?style=flat-square" alt="Semifinalist" /></td>
+          </tr>
+          <tr>
+            <td align="center">UIP Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Semifinalist-blue?style=flat-square" alt="Semifinalist" /></td>
+          </tr>
+          <tr>
+            <td align="center">Shark Tank (College)</td>
+            <td align="center"><img src="https://img.shields.io/badge/2nd_Runner_Up-silver?style=flat-square" alt="2nd Runner Up" /></td>
+          </tr>
+          <tr>
+            <td align="center">UIUX Solo Competition</td>
+            <td align="center"><img src="https://img.shields.io/badge/Runner_Up-silver?style=flat-square" alt="Runner Up" /></td>
+          </tr>
+          <tr>
+            <td align="center">Limitless Mind Hackathon</td>
+            <td align="center"><img src="https://img.shields.io/badge/Top_7-green?style=flat-square" alt="Top 7" /></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
-- **Nokia Shark Tank** — Semifinalist
-- **Hacktoberfest** — 3× Winner (MLH and Gemma)
-- **LEAP Hackathon** — Top 5, Government of Karnataka
-- **Smart India Hackathon 2026** — Semifinalist
-
-### Other results
-
-- **Innovex Hackathon** — Winner
-- **Innovatex BCU Hackathon** — Winner
-- **Agentathon** — 1st Runner-Up
-- **Altaria National Hackathon** — 2nd Runner-Up
-- **NMIT HACKS** — Finalist
-- **Hack A War** — Top 10
-- **Smart India Hackathon 2025** — Semifinalist
-- **UIP Hackathon** — Semifinalist
-- **Shark Tank (College)** — 2nd Runner-Up
-- **UIUX Solo Competition** — Runner-Up
-- **Limitless Mind Hackathon** — Top 7
-
-*The semifinalist and finalist summary counts the results listed here, including the existing profile achievements.*
-
-## `07 / GITHUB ANALYTICS`
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.zeabur.app/?username=rohan-chand-m-01&theme=onedark&no-bg=true&margin-w=15&margin-h=15" width="100%" alt="GitHub trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F2FE,50:0A192F,100:000000&height=40&text=CONNECT&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Connect" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rohan-chand-m-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=FF5DA2&icon_color=FF5DA2&text_color=ffffff" alt="GitHub stats" height="195" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rohan-chand-m-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=FF5DA2&text_color=ffffff" alt="Top languages" height="195" />
+  <a href="https://www.linkedin.com/in/rohan-chand-m-ab184832a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="mailto:rohan8899chand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" /></a>
+  <a href="https://github.com/rohan-chand-m-01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohan-chand-m-01&theme=tokyonight&hide_border=true&background=0B1020&ring=FF5DA2&fire=FF5DA2&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=FF5DA2" alt="GitHub contribution streak" height="195" />
+  <i>"Engineering intelligence, one system at a time."</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&bg_color=0B1020&color=ffffff&line=FF5DA2&point=FF5DA2&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
-</p>
-
-## `08 / CONTRIBUTION SNAKE`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohan-chand-m-01/rohan-chand-m-01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
-</p>
-
-## `09 / CONNECT`
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohan-chand-m-ab184832a/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=FF5DA2" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:rohan8899chand@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=FF5DA2" alt="Email Rohan" /></a>
-  <a href="https://github.com/rohan-chand-m-01"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FF5DA2" alt="GitHub profile" /></a>
-</p>
-
-<p align="center"><i>Engineering intelligence, one system at a time.</i></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5DA2,55:171334,100:0B1020&height=110&section=footer" width="100%" alt="Navy and pink wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:0A192F,100:000000&height=100&section=footer" width="100%" alt="Footer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=last+updated&color=ff5da2&labelColor=0b1020" alt="Last profile update" />
+  <img src="https://img.shields.io/github/last-commit/rohan-chand-m-01/rohan-chand-m-01?style=flat-square&label=last+updated&color=a855f7" alt="Auto Sync" />
 </p>
