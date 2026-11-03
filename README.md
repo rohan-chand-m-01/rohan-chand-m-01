@@ -107,9 +107,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,50:ff2d75,100:0a1628&height=40&text=%F0%9F%93%8A+GITHUB+ANALYTICS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Analytics" />
 </p>
 
-  <p align="center">
-    <img src="https://github-profile-trophy.zeabur.app/?username=rohan-chand-m-01&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy Wall" />
-  </p>
+ 
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -126,11 +124,6 @@
     </a>
   </p>
 
-  <p align="center">
-    <a href="https://github.com/AshutoshDwivedi/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-chand-m-01&bg_color=0a1628&color=ffffff&line=ff2d75&point=ff69b4&area=true&area_color=1e3a5f&hide_border=true" width="100%" alt="Activity Graph" />
-    </a>
-  </p>
 
 ---
 
