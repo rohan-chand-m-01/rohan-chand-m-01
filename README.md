@@ -322,13 +322,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,50:ff2d75,100:0a1628&height=40&text=%F0%9F%94%97+CONNECT+WITH+ME&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Connect" />
 </p>
 
-<div align="center">
 
-```
-rohan@dev:~$ cat contact_info.json
-```
-
-</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohan-chand-m-ab184832a/"><img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=1e90ff" alt="LinkedIn" /></a>
