@@ -9,10 +9,6 @@
 <!-- ║                                                                          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,25:1e3a5f,50:ff2d75,75:1e3a5f,100:0a1628&height=220&section=header&text=Rohan+Chand+M&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=&descAlignY=60&descSize=16" width="100%" alt="Header" />
-</p>
-
 <div align="center">
 
 ```
@@ -52,7 +48,7 @@
 
 <div align="center">
 
-| 🔹 Role | 🏢 Organization | 📅 Duration | 📌 Status |
+| Role |  Organization | Duration | Status |
 |:--------|:----------------|:------------|:----------|
 | **Research Intern** | NITK Surathkal | July — September 2026 | ![Completed](https://img.shields.io/badge/Completed-1e90ff?style=flat-square&labelColor=0a1628) |
 | **Software Developer Intern** | YathiRai | September 2026 — Present | ![Ongoing](https://img.shields.io/badge/Ongoing-ff2d75?style=flat-square&labelColor=0a1628) |
@@ -100,26 +96,6 @@
 <!--                     RESEARCH & DEVELOPMENT                         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,50:ff2d75,100:0a1628&height=40&text=%F0%9F%94%AC+RESEARCH+%26+DEVELOPMENT&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="R&D" />
-</p>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  01  ▸  Stable Diffusion Model & Machine Unlearning                     │
-│         → Selective knowledge removal in generative AI models           │
-│                                                                          │
-│  02  ▸  Audio Forensics                                                  │
-│         → Deep learning approaches for audio authentication & analysis  │
-│                                                                          │
-│  03  ▸  Compliance, KYC & AML for Fintech                               │
-│         → AI-driven regulatory compliance & anti-money laundering       │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
@@ -227,21 +203,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,50:ff2d75,100:0a1628&height=40&text=%F0%9F%8F%86+ACHIEVEMENTS&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Achievements" />
 </p>
 
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                    ⚡ COMPETITIVE HIGHLIGHTS ⚡                   ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║     🏆  9x Hackathon Winner                                      ║
-║     🥈  Multiple Semifinalist Appearances                        ║
-║     🎯  Multiple National Finalist Appearances                   ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 <table align="center" width="100%">
   <tr>
@@ -346,20 +307,7 @@
 
 <div align="center">
 
-### 🚀 Founder — Heapify Global Community
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   👥  30+ Core Members  ·  1000+ Community Members                      │
-│                                                                          │
-│   🤝  20+ Collaborations including:                                      │
-│       MLH  ·  Gemini  ·  Gemma  ·  Kaggle  &  more                     │
-│                                                                          │
-│   🎓  5+ College Partnerships across 3+ States in India                 │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
 
 <p>
   <img src="https://img.shields.io/badge/Core_Members-30+-ff2d75?style=for-the-badge&labelColor=0a1628" alt="Core Members" />
@@ -395,23 +343,6 @@ rohan@dev:~$ cat contact_info.json
   <a href="https://github.com/rohan-chand-m-01"><img src="https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
 </p>
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   📧  rohan8899chand@gmail.com                                          │
-│   🔗  linkedin.com/in/rohan-chand-m-ab184832a                          │
-│   🐙  github.com/rohan-chand-m-01                                      │
-│   🌐  Founder @ Heapify Global Community                               │
-│                                                                          │
-│   💬  Open to collaborations, research opportunities,                   │
-│       and conversations about AI, Fintech & DevOps.                     │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 <p align="center">
   <i>"Engineering intelligence, one system at a time."</i>
