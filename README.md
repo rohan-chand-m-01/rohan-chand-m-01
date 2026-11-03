@@ -295,7 +295,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,50:ff2d75,100:0a1628&height=40&text=%F0%9F%8C%90Founder+AT+HEAPIFY+GLOBAL+COMMUNITY&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Heapify Global" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,50:ff2d75,100:0a1628&height=40&text=%F0%9F%8C%90FOUNDER+AT+HEAPIFY+GLOBAL+COMMUNITY&fontSize=18&fontColor=ffffff&fontAlign=50" width="100%" alt="Heapify Global" />
 </p>
 
 <div align="center">
