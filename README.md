@@ -151,7 +151,7 @@
 
 <div align="center">
 
-### Heapify
+### NBFC Compliance & KYC
 **Multi-agent NBFC compliance decisioning platform for RBI & DPDP regulations**
 
 ![Python](https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=ff69b4)
@@ -173,7 +173,7 @@
 
 > Detects data drift in real-time using PSI and SHAP variance to ensure financial model stability.
 
-### Lorem Epsum
+### Vax_Zine
 **Real-time IoT and AI vaccine cold chain surveillance system**
 
 ![Python](https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=ff69b4)
